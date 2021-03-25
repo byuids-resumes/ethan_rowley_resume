@@ -3,7 +3,7 @@ layout: cv
 title: Ethan Rowley
 ---
 # Ethan Rowley
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Business Analytics Student at BYUI
 
 <div id="webaddress">
 <a href="ethan.rowley44@gmail.com">ethan.rowley44@gmail.com</a>
