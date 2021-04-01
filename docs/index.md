@@ -21,59 +21,44 @@ __Brigham Young University Idaho__, Rexburg, ID
 - Bachelor's in Business Analytics
 - 3.7 GPA
 
+`Coursework`
+Accounting, Data Science Programming in Python, SQL Databases, Data Wrangling and Visualization in R, Digital Marketing Strategy, Financial Management, Excel Spreadsheet Analysis, Operations and Supply Chain Management, Statistics in R
 
-## Related Experience
+## Knowledge and Capabilities
+`Technical Skills`
+Excel, Pivot Tables, Dashboards, Power BI, Tableau, R, Tidyverse, ggplot, Python, Pandas, Numpy, Altair, SQL, Statistics, CRM, Google Ads, Google Analytics, Facebook Ads Manager, Markdown, Regression
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`Other Business Skills`
+Financial Forecasting, Bank Reconciliations, Storytelling, Effective Written Communication, Teaching, Exploratory Data Analysis, English/Spanish Translation
 
 
-## Service and Work History
+## Employment History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`December 2020 - Present`
+__Data Science Teaching Assistant__
+_BYUI, Rexburg ID_
 
+- Teach professor and students fundamental Tableau skills (data wrangling, data visualization, interactive dashboards).
+- Prepare biweekly statistical and analytical lessons with professor.
 
-`2023-2025`
-__Service Missionary__, South Africa
+`June 2020 - August 2020`
+__Regional Controller Assistant__
+_Leavitt Group Enterprises, Cedar City UT_
+- Assisted in the creation of a company-wide Insurance Renewal Timeline by gathering, analyzing, and presenting data in Excel. This data is expected to boost process optimization by reducing the time used to renew policies by 25%.
+- Audited payrolls, insurance policies, and bank reconciliations by quickly detecting and resolving errors, saving the company thousands of dollars.
+
+`July 2019 - September 2019`
+__Summer Intern__
+_Nevada Corporate Headquarters, Reno NV_
+- Reduced data errors by 50% through the analyzing and amending of information for over 500 companies nationwide using CRM and Excel. Expected to reduce overall sales process time by 1-2 hours a day.
+
+## Academic Projects
+- **Data Visualization:** Created interactive dashboards to visualize NBA salary trends using Tableau.
+- **Data Tidying and Wrangling:** Analyzed airport delays using the Python package Pandas.
+- **Basic Machine Learning:** Predicted with 90% accuracy if homes in Denver were built before or
+after 1980 using scikit-learn.
+- **SQL Queries:** Combined SQL and Pandas to query a baseball database and visualize findings.
+
 
 
 
