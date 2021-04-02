@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ethan Rowley
+title: Ethan Rowley Resume
 ---
 # Ethan Rowley
 Business Analytics Student at BYUI
