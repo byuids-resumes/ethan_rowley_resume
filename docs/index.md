@@ -16,7 +16,7 @@ Business Analytics Student at BYUI
 ## Education
 
 `Expected Graduation 2021`
-__Brigham Young University Idaho__, Rexburg, ID
+__Brigham Young University Idaho__, Rexburg, Idaho
 
 - Bachelor's in Business Analytics
 - 3.7 GPA
