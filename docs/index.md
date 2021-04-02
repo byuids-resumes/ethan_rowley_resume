@@ -20,7 +20,6 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 - Bachelor's in Business Analytics
 - 3.7 GPA
-----> Include major GPA vs overall GPA
 
 ## Knowledge and Capabilities
 `Technical Skills`
